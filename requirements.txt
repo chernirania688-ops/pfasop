@@ -1,6 +1,6 @@
-﻿fastapi
+fastapi
 uvicorn
-crewai==0.100.0
+crewai
 langchain-community
 pandas
 openpyxl
